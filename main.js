@@ -5,5 +5,5 @@ var showText = function (target, message, index, interval) {
   } 
 }
 $(function () { 
-  showText("h1", "I am error 404.", 0, 80);    
+  showText("h1", "Anda Akan Diarahkan Dalam 3 Detik.", 0, 80);    
 }); 
